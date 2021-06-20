@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 ![Android](https://img.shields.io/badge/Android-11.0-green)&nbsp;
 ![c#](https://img.shields.io/badge/C%23-9.0-blue)&nbsp;
 
+
+![Shristy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shristy-Gupta&count_private=true&show_icons=true&theme=synthwave)
+
 ## You can connect with me on:
 <a href="https://www.linkedin.com/in/shristy-gupta-868067a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:gupta.60@iitj.ac.in"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
