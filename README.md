@@ -27,9 +27,12 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shristy-Gupta&count_private=true&show_icons=true&theme=gruvbox)
 
+
+
 ## You can connect with me on:
 <a href="https://www.linkedin.com/in/shristy-gupta-868067a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:gupta.60@iitj.ac.in"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Shristy-Gupta&repo=Shristy-Gupta"/>
 
 [resume]: https://github.com/Shristy-Gupta/Shristy-Gupta/blob/main/Shristy%20Gupta%20Resume.pdf
 
